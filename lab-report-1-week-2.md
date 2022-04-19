@@ -2,7 +2,9 @@
 ![Image 1](Screenshot1.png)
 
 For this step, I googled VScode. From there, I installed it for my operating system and took a screenshot.
+
 [Link to install VS Code](https://code.visualstudio.com/download)
+
 [Link to help setup VS Code](https://code.visualstudio.com/docs/setup/setup-overview)
 # Remotely Connecting
 After finding your cse15l account, use "ssh YourAccount" to log in remotely. It will then prompt for your password which you should have reset. Below is what it will look like once you're logged in.
