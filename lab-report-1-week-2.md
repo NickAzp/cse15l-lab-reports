@@ -10,7 +10,7 @@ For this step, I googled VScode. From there, I installed it for my operating sys
 # Remotely Connecting
 After finding your cse15l account, use "ssh YourAccount" to log in remotely. It will then prompt for your password which you should have reset. Below is what it will look like once you're logged in.
 
-'ssh cs15lsp22acb@ieng6.ucsd.edu'
+'''ssh cs15lsp22acb@ieng6.ucsd.edu'''
 
 ![Image 2](Screenshot2.png)
 # Trying Some Commands
