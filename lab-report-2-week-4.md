@@ -17,3 +17,16 @@ https://github.com/NickAzp/cse15l-lab-reports/blob/main/test-file2.md
 
 Here's the output of the failure inducing input. Since it's an image link, it should not be printed out:
 ![Image 3](Image3.png)
+
+# Third Code Change
+Here's the code change I made:
+![Image 5](Change3.png)
+
+Here's a link to the test file that caused me to make this change:
+https://github.com/NickAzp/cse15l-lab-reports/blob/main/test-file3.md
+
+Here's the output of the failure inducing input. The extra space messes up the indexing on the code which causes the output to be incorrect:
+![Image 6](Image5.png)
+
+
+
