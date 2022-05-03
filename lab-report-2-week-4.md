@@ -20,7 +20,7 @@ https://github.com/NickAzp/cse15l-lab-reports/blob/main/test-file2.md
 Here's the output of the failure inducing input. Since it's an image link, it should not be printed out:
 ![Image 3](Image3.png)
 
-The bug is that 
+The bug is that image links are treated the same as other links. A symptom is that it caused image links when used for the test file to be outprinted which shouldn't happen since they are image links.
 # Third Code Change
 Here's the code change I made:
 ![Image 5](Change3.png)
@@ -31,5 +31,6 @@ https://github.com/NickAzp/cse15l-lab-reports/blob/main/test-file3.md
 Here's the output of the failure inducing input. The extra space messes up the indexing on the code which causes the output to be incorrect:
 ![Image 6](Image5.png)
 
+The bug is that the indexing uses for the links does not account for spaces in the code. A symptom is that whenever spaces extra spaces are put at the end of the test file, it causes the indexing of the links to be incorrect. Therefore a test file with the extra space would cause the error as seen above.
 
 
