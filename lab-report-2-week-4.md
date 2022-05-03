@@ -23,7 +23,7 @@ Here's the output of the failure inducing input. Since it's an image link, it sh
 The bug is that image links are treated the same as other links. A symptom is that it caused image links when used for the test file to be outprinted which shouldn't happen since they are image links.
 # Third Code Change
 Here's the code change I made:
-![Image 5](Change3.png)
+![Image 5](Change3real.png)
 
 Here's a link to the test file that caused me to make this change:
 https://github.com/NickAzp/cse15l-lab-reports/blob/main/test-file3.md
