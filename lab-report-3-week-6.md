@@ -41,3 +41,5 @@ Show (like in the last step of the first lab) combining scp, ;, and ssh to copy 
 
 ![Image 10](10l3.png)
 
+![Image 11](11l3.png)
+
