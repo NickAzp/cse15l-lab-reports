@@ -22,11 +22,14 @@ Show where the private key you made is stored on your user account (but not its 
 
 Show running git commands to commit and push a change to Github while logged into your ieng6 account.
 
+![Image 7](7l3.png)
+
 ![Image 6](6l3.png)
 
 Show a link for the resulting commit.
 
-![Image 7](7l3.png)
+https://github.com/NickAzp/markdown-parser/commit/1a47d77a54418fade64b70a46687701f3c916bfc
+
 
 # Copy whole directories with scp -r
 Show copying your whole markdown-parse directory to your ieng6 account.
