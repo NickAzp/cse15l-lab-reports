@@ -1,4 +1,7 @@
 # Streamlining ssh Configuration
+
+Streamlining ssh Configuration is really useful to increase the efficiency in the terminal. It also helps to remember what your login is for specific hosts.
+
 Show your .ssh/config file, and how you edited it (with VScode, another program, etc)
 
 ![Image 1](1l3.png)
@@ -12,6 +15,9 @@ Show an scp command copying a file to your account using just the alias you chos
 ![Image 3](3l3.png)
 
 # Setup Github Access from ieng6
+
+Setting up Github from ieng6 is useful to push stuff while logged in through ieng6. It can also be used for other git commands like clone and pull. Connecting to the cloud from Github is really important.
+
 Show where the public key you made is stored on Github and in your user account (screenshot).
 
 ![Image 4](4l3.png)
@@ -32,6 +38,9 @@ https://github.com/NickAzp/markdown-parser/commit/1a47d77a54418fade64b70a4668770
 
 
 # Copy whole directories with scp -r
+
+Copying whole directories is useful to quickly get files you need. This can be streamlined with chaining commands together to do it even quicker. One can then run tests in the ieng6 account.
+
 Show copying your whole markdown-parse directory to your ieng6 account.
 
 ![Image 8](8l3.png)
