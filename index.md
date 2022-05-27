@@ -4,4 +4,4 @@
 
 [Lab Report 3 Week 6](https://nickazp.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
-[Lab Report 4 Week 8](https://nickazp.github.io/cse15l-lab-reports/lab-report-4-week-8.html
+[Lab Report 4 Week 8](https://nickazp.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
