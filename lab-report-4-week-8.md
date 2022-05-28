@@ -67,3 +67,14 @@ What each tests should produce based on VScode Preview:
  # The result of the implementation I reviewed for the snippets is below:
  
  ![Image 6](Theirs.png)
+ 
+ # Possible code changes for my implementation:
+  For Snippet 1:
+  
+  I think it would take more than 10 lines to fix this change. I believe my code may have gotten messed up from the extra spaces as well as the backticks, and my current code uses indexing from the brackets. I would need to change indexing and account for backticks in the link as well as 
+  
+  For Snippet 2:
+  
+  For Snippet 3:
+  
+  
