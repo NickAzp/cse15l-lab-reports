@@ -6,7 +6,7 @@ Link to the one I reviewed in week 7:
 
 https://github.com/lithicarus/markdown-parser
 
-What each tests should produce based on https://spec.commonmark.org/dingus/ :
+What each tests should produce based on VScode Preview:
 
   Snippet 1:
   
@@ -20,6 +20,8 @@ What each tests should produce based on https://spec.commonmark.org/dingus/ :
 
   code]
   
+  getLinks should return an ArrayList of type String with the elements {"`google.com","google.com","ucsd.edu"}
+  
   Snippet 2:
   
   ![Image 2](Snippet2Preview.png)
@@ -29,6 +31,8 @@ What each tests should produce based on https://spec.commonmark.org/dingus/ :
   a nested parenthesized url
 
   some escaped [ brackets ]
+  
+  getLinks should return an ArrayList of type String with the elements {"a.com","a.com(())","example.com"}
   
   Snippet 3:
   
@@ -49,5 +53,12 @@ What each tests should produce based on https://spec.commonmark.org/dingus/ :
   )
 
   And then there's more text
+  
+  getLinks should return an ArrayList of type String with the elements {"https://www.twitter.com", "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule", "https://cse.ucsd.edu/"}
+  
+  The code in MarkdownParseTest.java for turning each snippet into a test is below:
+  
+  ![Image 4](Teststatements.png)
+
   
  
