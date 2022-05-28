@@ -10,6 +10,8 @@ What each tests should produce based on https://spec.commonmark.org/dingus/ :
 
   Snippet 1:
   
+  ![Image 1](Snippet1Preview.png)
+  
   [a link](url.com)
 
   another link`
@@ -20,6 +22,8 @@ What each tests should produce based on https://spec.commonmark.org/dingus/ :
   
   Snippet 2:
   
+  ![Image 2](Snippet2Preview.png)
+  
   [a nested link](b.com)
 
   a nested parenthesized url
@@ -27,6 +31,8 @@ What each tests should produce based on https://spec.commonmark.org/dingus/ :
   some escaped [ brackets ]
   
   Snippet 3:
+  
+  ![Image 3](Snippet3Preview.png)
   
   [this title text is really long and takes up more than one line
 
