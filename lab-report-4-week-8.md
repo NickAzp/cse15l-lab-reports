@@ -60,8 +60,10 @@ What each tests should produce based on VScode Preview:
   
   ![Image 4](Teststatements2.png)
 
- # The Result of my implementation for the snippets is below:
+ # The result of my implementation for the snippets is below:
  
  ![Image 5](Mine.png)
-  
  
+ # The result of the implementation I reviewed for the snippets is below:
+ 
+ ![Image 6](Theirs.png)
