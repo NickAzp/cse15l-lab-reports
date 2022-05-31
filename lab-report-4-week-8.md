@@ -75,6 +75,8 @@ What each tests should produce based on VScode Preview:
   
   For Snippet 2:
   
+  I also think it would take more than 10 lines to fix this change. I use the indexing of parathesis and brackets in combination to currently find what's inside of them, so extra parathesis or brackets may cause my code to misfunction. Additionally, the extra spacing in this snippet is uncounted for in my code.
+  
   For Snippet 3:
   
-  
+  My code accounts for the link to be on one line for the indexing, which would cause issues when the link is on multiple lines, link in this snippet. Even the name of the link might also cause issues if it's on multiple lines. These issues with the added problem of extra new lines would mean that it would take more than 10 lines to fix my code for this snippet.
