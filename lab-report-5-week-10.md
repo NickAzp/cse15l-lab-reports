@@ -62,6 +62,6 @@ Both implementations are incorrect.
 
 ### If implementation(s) have bug. Description of bug in 2-3 sentences with screenshot of where code needs to be fixed.
 
-The problem with my code is that I rely off of the indexing of brackets and parathesis to determine the links. This causes an error when there's extra brackets like in this test file. A for loop like the one below, to get rid of the extra brackets may solve this issue.
+The problem with my code is that I rely off of the indexing of brackets and parathesis to determine the links. This causes an error when there's extra brackets like in this test file. A for loop, at the start before the indexing of the brackets is used, to get rid of the extra brackets may solve this issue.
 
 ![Image7](file7.png)
