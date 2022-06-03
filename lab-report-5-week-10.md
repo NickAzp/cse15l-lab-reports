@@ -28,7 +28,9 @@ Both implementations are incorrect.
 
 ### If implementation(s) have bug. Description of bug in 2-3 sentences with screenshot of where code needs to be fixed.
 
+The bug is from my implementation not accounting for slashes in the link. This could be fixed with adding a loop to remove the slashes after the links have been found. This would ensure my code still functions as it would only impact what's inside the link.
 
+![Image8](file8.png)
 
 # Test 2
 
@@ -60,4 +62,6 @@ Both implementations are incorrect.
 
 ### If implementation(s) have bug. Description of bug in 2-3 sentences with screenshot of where code needs to be fixed.
 
+The problem with my code is that I rely off of the indexing of brackets and parathesis to determine the links. This causes an error when there's extra brackets like in this test file. A for loop like the one below, to get rid of the extra brackets may solve this issue.
 
+![Image7](file7.png)
