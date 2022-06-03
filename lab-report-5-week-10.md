@@ -24,7 +24,7 @@ Should be [title]
 
 ### Correctness of implementation
 
-
+Both implementations are incorrect.
 
 ### If implementation(s) have bug. Description of bug in 2-3 sentences with screenshot of where code needs to be fixed.
 
@@ -56,6 +56,8 @@ Should be [/url, /url]
 
 ### Correctness of implementation
 
-
+Both implementations are incorrect.
 
 ### If implementation(s) have bug. Description of bug in 2-3 sentences with screenshot of where code needs to be fixed.
+
+
